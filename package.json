@@ -15,6 +15,7 @@
     "@types/react": "latest",
     "@types/react-dom": "latest",
     "autoprefixer": "latest",
+    "axios": "^0.27.2",
     "pocketbase": "^0.7.0",
     "postcss": "latest",
     "react": "latest",
